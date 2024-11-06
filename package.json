@@ -1,0 +1,12 @@
+{
+  "name": "component-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "node build/test/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
